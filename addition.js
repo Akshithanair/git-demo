@@ -8,3 +8,4 @@ else{
     console.log("she is a very easy going lady");
 }
 console.log(akshitha==fancy);
+console.log(akshitha!=fancy);
